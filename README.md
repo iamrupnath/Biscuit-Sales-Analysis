@@ -101,8 +101,9 @@ An **interactive Excel dashboard** visualizing:
 - Customer demographic breakdowns  
 - Sales by location and salesperson  
 
-> 🧩 *You can add your dashboard screenshot here for GitHub preview:*  
-> `![Dashboard Preview](dashboard_screenshot.png)`
+> 🧩 *You can add your dashboard screenshot here for GitHub preview:*
+> 
+> ![image alt](https://github.com/iamrupnath/Biscuit-Sales-Analysis/blob/main/Screenshot%202025-08-25%20011636.png?raw=true)
 
 ---
 
@@ -126,3 +127,4 @@ Special thanks to the B&J Biscuit team for providing access to the data and supp
 📫 *Connect with me for data-driven insights and dashboard design collaborations!*  
 
 ---
+
