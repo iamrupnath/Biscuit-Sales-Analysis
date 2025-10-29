@@ -1,0 +1,24 @@
+Data Transformation: 
+
+Transaction Date, Buyer Date of Birth - Data format convert
+Brand Names, Cost, Unit Price - Create 3 new columns
+Buyer Date of Birth, Transaction Date - Create Age columns to between to Year 
+Age-Group - Define a age group around 14 years
+Revenue, Cost2, Profit - Create 3 new columns
+Full Name - Create new columns
+Weekday, WeekType - Create new columns weekday representants (Mon-Sun) and WeekDay representants (Weekday or weekend)
+
+
+
+Revenue Distribution by Product Price Category
+Revenue from High vs Low Price Product
+Revenue Contribution by Age Group
+Top 5 Customers by Revenue Contribution
+Revenue Share by Geographic Location
+Revenue Breakdown by Gender
+Revenue Distribution by Payment Method
+Filter by Location: Filter by Age-Group:
+Filter by Payment Type:
+
+
+
